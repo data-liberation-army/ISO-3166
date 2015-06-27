@@ -1,0 +1,635 @@
+numeric	alpha-2	alpha-3	status	name
+	AB		unassigned	
+	AC		exceptionally reserved	
+020	AD	AND	officially assigned	Andorra
+784	AE	ARE	officially assigned	United Arab Emirates (the)
+004	AF	AFG	officially assigned	Afghanistan
+028	AG	ATG	officially assigned	Antigua and Barbuda
+	AH		unassigned	
+660	AI	AIA	formerly used	French Afars and Issas
+	AJ		unassigned	
+	AK		unassigned	
+008	AL	ALB	officially assigned	Albania
+051	AM	ARM	officially assigned	Armenia
+	AN		transitionally reserved	Netherlands Antilles
+024	AO	AGO	officially assigned	Angola
+	AP		indeterminately reserved	
+010	AQ	ATA	officially assigned	Antarctica
+032	AR	ARG	officially assigned	Argentina
+016	AS	ASM	officially assigned	American Samoa
+040	AT	AUT	officially assigned	Austria
+036	AU	AUS	officially assigned	Australia
+	AV		unassigned	
+533	AW	ABW	officially assigned	Aruba
+248	AX	ALA	officially assigned	Åland Islands
+	AY		unassigned	
+031	AZ	AZE	officially assigned	Azerbaijan
+070	BA	BIH	officially assigned	Bosnia and Herzegovina
+052	BB	BRB	officially assigned	Barbados
+	BC		unassigned	
+050	BD	BGD	officially assigned	Bangladesh
+056	BE	BEL	officially assigned	Belgium
+854	BF	BFA	officially assigned	Burkina Faso
+100	BG	BGR	officially assigned	Bulgaria
+048	BH	BHR	officially assigned	Bahrain
+108	BI	BDI	officially assigned	Burundi
+204	BJ	BEN	officially assigned	Benin
+	BK		unassigned	
+652	BL	BLM	officially assigned	Saint Barthélemy
+060	BM	BMU	officially assigned	Bermuda
+096	BN	BRN	officially assigned	Brunei Darussalam
+068	BO	BOL	officially assigned	Bolivia (Plurinational State of)
+	BP		unassigned	
+535	BQ	BES	formerly used	British Antarctic Territory
+076	BR	BRA	officially assigned	Brazil
+044	BS	BHS	officially assigned	Bahamas (the)
+064	BT	BTN	officially assigned	Bhutan
+	BU		transitionally reserved	Burma
+074	BV	BVT	officially assigned	Bouvet Island
+072	BW	BWA	officially assigned	Botswana
+	BX		indeterminately reserved	
+112	BY	BLR	officially assigned	Belarus
+084	BZ	BLZ	officially assigned	Belize
+124	CA	CAN	officially assigned	Canada
+	CB		unassigned	
+166	CC	CCK	officially assigned	Cocos (Keeling) Islands (the)
+180	CD	COD	officially assigned	Congo (the Democratic Republic of the)
+	CE		unassigned	
+140	CF	CAF	officially assigned	Central African Republic (the)
+178	CG	COG	officially assigned	Congo (the)
+756	CH	CHE	officially assigned	Switzerland
+384	CI	CIV	officially assigned	Côte d'Ivoire
+	CJ		unassigned	
+184	CK	COK	officially assigned	Cook Islands (the)
+152	CL	CHL	officially assigned	Chile
+120	CM	CMR	officially assigned	Cameroon
+156	CN	CHN	officially assigned	China
+170	CO	COL	officially assigned	Colombia
+	CP		exceptionally reserved	
+	CQ		unassigned	
+188	CR	CRI	officially assigned	Costa Rica
+	CS		transitionally reserved	Serbia and Montenegro
+	CT		formerly used	Canton and Enderbury Islands
+192	CU	CUB	officially assigned	Cuba
+132	CV	CPV	officially assigned	Cabo Verde
+531	CW	CUW	officially assigned	Curaçao
+162	CX	CXR	officially assigned	Christmas Island
+196	CY	CYP	officially assigned	Cyprus
+203	CZ	CZE	officially assigned	Czech Republic (the)
+	DA		unassigned	
+	DB		unassigned	
+	DC		unassigned	
+	DD		formerly used	German Democratic Republic
+276	DE	DEU	officially assigned	Germany
+	DF		unassigned	
+	DG		exceptionally reserved	
+	DH		unassigned	
+	DI		unassigned	
+262	DJ	DJI	officially assigned	Djibouti
+208	DK	DNK	officially assigned	Denmark
+	DL		unassigned	
+212	DM	DMA	officially assigned	Dominica
+	DN		unassigned	
+214	DO	DOM	officially assigned	Dominican Republic (the)
+	DP		unassigned	
+	DQ		unassigned	
+	DR		unassigned	
+	DS		unassigned	
+	DT		unassigned	
+	DU		unassigned	
+	DV		unassigned	
+	DW		unassigned	
+	DX		unassigned	
+	DY		indeterminately reserved	
+012	DZ	DZA	officially assigned	Algeria
+	EA		exceptionally reserved	
+	EB		unassigned	
+218	EC	ECU	officially assigned	Ecuador
+	ED		unassigned	
+233	EE	EST	officially assigned	Estonia
+	EF		indeterminately reserved	
+818	EG	EGY	officially assigned	Egypt
+732	EH	ESH	officially assigned	Western Sahara*
+	EI		unassigned	
+	EJ		unassigned	
+	EK		unassigned	
+	EL		unassigned	
+	EM		indeterminately reserved	
+	EN		unassigned	
+	EO		unassigned	
+	EP		indeterminately reserved	
+	EQ		unassigned	
+232	ER	ERI	officially assigned	Eritrea
+724	ES	ESP	officially assigned	Spain
+231	ET	ETH	officially assigned	Ethiopia
+	EU		exceptionally reserved	
+	EV		indeterminately reserved	
+	EW		indeterminately reserved	
+	EX		unassigned	
+	EY		unassigned	
+	EZ		exceptionally reserved	
+	FA		unassigned	
+	FB		unassigned	
+	FC		unassigned	
+	FD		unassigned	
+	FE		unassigned	
+	FF		unassigned	
+	FG		unassigned	
+	FH		unassigned	
+246	FI	FIN	officially assigned	Finland
+242	FJ	FJI	officially assigned	Fiji
+238	FK	FLK	officially assigned	Falkland Islands (the) [Malvinas]
+	FL		indeterminately reserved	
+583	FM	FSM	officially assigned	Micronesia (Federated States of)
+	FN		unassigned	
+234	FO	FRO	officially assigned	Faroe Islands (the)
+	FP		unassigned	
+	FQ		unassigned	
+250	FR	FRA	officially assigned	France
+	FS		unassigned	
+	FT		unassigned	
+	FU		unassigned	
+	FV		unassigned	
+	FW		unassigned	
+	FX		exceptionally reserved	France, Metropolitan
+	FY		unassigned	
+	FZ		unassigned	
+266	GA	GAB	officially assigned	Gabon
+826	GB	GBR	officially assigned	United Kingdom of Great Britain and Northern Ireland (the)
+	GC		indeterminately reserved	
+308	GD	GRD	officially assigned	Grenada
+268	GE	GEO	officially assigned	Georgia
+254	GF	GUF	officially assigned	French Guiana
+831	GG	GGY	officially assigned	Guernsey
+288	GH	GHA	officially assigned	Ghana
+292	GI	GIB	officially assigned	Gibraltar
+	GJ		unassigned	
+	GK		unassigned	
+304	GL	GRL	officially assigned	Greenland
+270	GM	GMB	officially assigned	Gambia (the)
+324	GN	GIN	officially assigned	Guinea
+	GO		unassigned	
+312	GP	GLP	officially assigned	Guadeloupe
+226	GQ	GNQ	officially assigned	Equatorial Guinea
+300	GR	GRC	officially assigned	Greece
+239	GS	SGS	officially assigned	South Georgia and the South Sandwich Islands
+320	GT	GTM	officially assigned	Guatemala
+316	GU	GUM	officially assigned	Guam
+	GV		unassigned	
+624	GW	GNB	officially assigned	Guinea-Bissau
+	GX		unassigned	
+328	GY	GUY	officially assigned	Guyana
+	GZ		unassigned	
+	HA		unassigned	
+	HB		unassigned	
+	HC		unassigned	
+	HD		unassigned	
+	HE		unassigned	
+	HF		unassigned	
+	HG		unassigned	
+	HH		unassigned	
+	HI		unassigned	
+	HJ		unassigned	
+344	HK	HKG	officially assigned	Hong Kong
+	HL		unassigned	
+334	HM	HMD	officially assigned	Heard Island and McDonald Islands
+340	HN	HND	officially assigned	Honduras
+	HO		unassigned	
+	HP		unassigned	
+	HQ		unassigned	
+191	HR	HRV	officially assigned	Croatia
+	HS		unassigned	
+332	HT	HTI	officially assigned	Haiti
+348	HU	HUN	officially assigned	Hungary
+	HV		unassigned	
+	HW		unassigned	
+	HX		unassigned	
+	HY		unassigned	
+	HZ		unassigned	
+	IA		unassigned	
+	IB		indeterminately reserved	
+	IC		exceptionally reserved	
+360	ID	IDN	officially assigned	Indonesia
+372	IE	IRL	officially assigned	Ireland
+	IF		unassigned	
+	IG		unassigned	
+	IH		unassigned	
+	II		unassigned	
+	IJ		unassigned	
+	IK		unassigned	
+376	IL	ISR	officially assigned	Israel
+833	IM	IMN	officially assigned	Isle of Man
+356	IN	IND	officially assigned	India
+086	IO	IOT	officially assigned	British Indian Ocean Territory (the)
+	IP		unassigned	
+368	IQ	IRQ	officially assigned	Iraq
+364	IR	IRN	officially assigned	Iran (Islamic Republic of)
+352	IS	ISL	officially assigned	Iceland
+380	IT	ITA	officially assigned	Italy
+	IU		unassigned	
+	IV		unassigned	
+	IW		unassigned	
+	IX		unassigned	
+	IY		unassigned	
+	IZ		unassigned	
+	JA		indeterminately reserved	
+	JB		unassigned	
+	JC		unassigned	
+	JD		unassigned	
+832	JE	JEY	officially assigned	Jersey
+	JF		unassigned	
+	JG		unassigned	
+	JH		unassigned	
+	JI		unassigned	
+	JJ		unassigned	
+	JK		unassigned	
+	JL		unassigned	
+388	JM	JAM	officially assigned	Jamaica
+	JN		unassigned	
+400	JO	JOR	officially assigned	Jordan
+392	JP	JPN	officially assigned	Japan
+	JQ		unassigned	
+	JR		unassigned	
+	JS		unassigned	
+	JT		unassigned	
+	JU		unassigned	
+	JV		unassigned	
+	JW		unassigned	
+	JX		unassigned	
+	JY		unassigned	
+	JZ		unassigned	
+	KA		unassigned	
+	KB		unassigned	
+	KC		unassigned	
+	KD		unassigned	
+404	KE	KEN	officially assigned	Kenya
+	KF		unassigned	
+417	KG	KGZ	officially assigned	Kyrgyzstan
+116	KH	KHM	officially assigned	Cambodia
+296	KI	KIR	officially assigned	Kiribati
+	KJ		unassigned	
+	KK		unassigned	
+	KL		unassigned	
+174	KM	COM	officially assigned	Comoros (the)
+659	KN	KNA	officially assigned	Saint Kitts and Nevis
+	KO		unassigned	
+408	KP	PRK	officially assigned	Korea (the Democratic People's Republic of)
+	KQ		unassigned	
+410	KR	KOR	officially assigned	Korea (the Republic of)
+	KS		unassigned	
+	KT		unassigned	
+	KU		unassigned	
+	KV		unassigned	
+414	KW	KWT	officially assigned	Kuwait
+	KX		unassigned	
+136	KY	CYM	officially assigned	Cayman Islands (the)
+398	KZ	KAZ	officially assigned	Kazakhstan
+418	LA	LAO	officially assigned	Lao People's Democratic Republic (the)
+422	LB	LBN	officially assigned	Lebanon
+662	LC	LCA	officially assigned	Saint Lucia
+	LD		unassigned	
+	LE		unassigned	
+	LF		indeterminately reserved	
+	LG		unassigned	
+	LH		unassigned	
+438	LI	LIE	officially assigned	Liechtenstein
+	LJ		unassigned	
+144	LK	LKA	officially assigned	Sri Lanka
+	LL		unassigned	
+	LM		unassigned	
+	LN		unassigned	
+	LO		unassigned	
+	LP		unassigned	
+	LQ		unassigned	
+430	LR	LBR	officially assigned	Liberia
+426	LS	LSO	officially assigned	Lesotho
+440	LT	LTU	officially assigned	Lithuania
+442	LU	LUX	officially assigned	Luxembourg
+428	LV	LVA	officially assigned	Latvia
+	LW		unassigned	
+	LX		unassigned	
+434	LY	LBY	officially assigned	Libya
+	LZ		unassigned	
+504	MA	MAR	officially assigned	Morocco
+	MB		unassigned	
+492	MC	MCO	officially assigned	Monaco
+498	MD	MDA	officially assigned	Moldova (the Republic of)
+499	ME	MNE	officially assigned	Montenegro
+663	MF	MAF	officially assigned	Saint Martin (French part)
+450	MG	MDG	officially assigned	Madagascar
+584	MH	MHL	officially assigned	Marshall Islands (the)
+	MI		unassigned	
+	MJ		unassigned	
+807	MK	MKD	officially assigned	Macedonia (the former Yugoslav Republic of)
+466	ML	MLI	officially assigned	Mali
+104	MM	MMR	officially assigned	Myanmar
+496	MN	MNG	officially assigned	Mongolia
+446	MO	MAC	officially assigned	Macao
+580	MP	MNP	officially assigned	Northern Mariana Islands (the)
+474	MQ	MTQ	officially assigned	Martinique
+478	MR	MRT	officially assigned	Mauritania
+500	MS	MSR	officially assigned	Montserrat
+470	MT	MLT	officially assigned	Malta
+480	MU	MUS	officially assigned	Mauritius
+462	MV	MDV	officially assigned	Maldives
+454	MW	MWI	officially assigned	Malawi
+484	MX	MEX	officially assigned	Mexico
+458	MY	MYS	officially assigned	Malaysia
+508	MZ	MOZ	officially assigned	Mozambique
+516	NA	NAM	officially assigned	Namibia
+	NB		unassigned	
+540	NC	NCL	officially assigned	New Caledonia
+	ND		unassigned	
+562	NE	NER	officially assigned	Niger (the)
+574	NF	NFK	officially assigned	Norfolk Island
+566	NG	NGA	officially assigned	Nigeria
+	NH		unassigned	
+558	NI	NIC	officially assigned	Nicaragua
+	NJ		unassigned	
+	NK		unassigned	
+528	NL	NLD	officially assigned	Netherlands (the)
+	NM		unassigned	
+	NN		unassigned	
+578	NO	NOR	officially assigned	Norway
+524	NP	NPL	officially assigned	Nepal
+	NQ		formerly used	Dronning Maud Land
+520	NR	NRU	officially assigned	Nauru
+	NS		unassigned	
+	NT		transitionally reserved	Neutral Zone
+570	NU	NIU	officially assigned	Niue
+	NV		unassigned	
+	NW		unassigned	
+	NX		unassigned	
+	NY		unassigned	
+554	NZ	NZL	officially assigned	New Zealand
+	OA		indeterminately reserved	
+	OB		unassigned	
+	OC		unassigned	
+	OD		unassigned	
+	OE		unassigned	
+	OF		unassigned	
+	OG		unassigned	
+	OH		unassigned	
+	OI		unassigned	
+	OJ		unassigned	
+	OK		unassigned	
+	OL		unassigned	
+512	OM	OMN	officially assigned	Oman
+	ON		unassigned	
+	OO		unassigned	
+	OP		unassigned	
+	OQ		unassigned	
+	OR		unassigned	
+	OS		unassigned	
+	OT		unassigned	
+	OU		unassigned	
+	OV		unassigned	
+	OW		unassigned	
+	OX		unassigned	
+	OY		unassigned	
+	OZ		unassigned	
+591	PA	PAN	officially assigned	Panama
+	PB		unassigned	
+	PC		formerly used	Pacific Islands (Trust Territory)
+	PD		unassigned	
+604	PE	PER	officially assigned	Peru
+258	PF	PYF	officially assigned	French Polynesia
+598	PG	PNG	officially assigned	Papua New Guinea
+608	PH	PHL	officially assigned	Philippines (the)
+	PI		indeterminately reserved	
+	PJ		unassigned	
+586	PK	PAK	officially assigned	Pakistan
+616	PL	POL	officially assigned	Poland
+666	PM	SPM	officially assigned	Saint Pierre and Miquelon
+612	PN	PCN	officially assigned	Pitcairn
+	PO		unassigned	
+	PP		unassigned	
+	PQ		unassigned	
+630	PR	PRI	officially assigned	Puerto Rico
+275	PS	PSE	officially assigned	Palestine, State of
+620	PT	PRT	officially assigned	Portugal
+	PU		formerly used	United States Miscellaneous Pacific Islands
+	PV		unassigned	
+585	PW	PLW	officially assigned	Palau
+	PX		unassigned	
+600	PY	PRY	officially assigned	Paraguay
+	PZ		unassigned	
+634	QA	QAT	officially assigned	Qatar
+	QB		unassigned	
+	QC		unassigned	
+	QD		unassigned	
+	QE		unassigned	
+	QF		unassigned	
+	QG		unassigned	
+	QH		unassigned	
+	QI		unassigned	
+	QJ		unassigned	
+	QK		unassigned	
+	QL		unassigned	
+	RA		indeterminately reserved	
+	RB		indeterminately reserved	
+	RC		indeterminately reserved	
+	RD		unassigned	
+638	RE	REU	officially assigned	Réunion
+	RF		unassigned	
+	RG		unassigned	
+	RH		indeterminately reserved	
+	RI		indeterminately reserved	
+	RJ		unassigned	
+	RK		unassigned	
+	RL		indeterminately reserved	
+	RM		indeterminately reserved	
+	RN		indeterminately reserved	
+642	RO	ROU	officially assigned	Romania
+	RP		indeterminately reserved	
+	RQ		unassigned	
+	RR		unassigned	
+688	RS	SRB	officially assigned	Serbia
+	RT		unassigned	
+643	RU	RUS	officially assigned	Russian Federation (the)
+	RV		unassigned	
+646	RW	RWA	officially assigned	Rwanda
+	RX		unassigned	
+	RY		unassigned	
+	RZ		unassigned	
+682	SA	SAU	officially assigned	Saudi Arabia
+090	SB	SLB	officially assigned	Solomon Islands
+690	SC	SYC	officially assigned	Seychelles
+729	SD	SDN	officially assigned	Sudan (the)
+752	SE	SWE	officially assigned	Sweden
+	SF		indeterminately reserved	
+702	SG	SGP	officially assigned	Singapore
+654	SH	SHN	officially assigned	Saint Helena, Ascension and Tristan da Cunha
+705	SI	SVN	officially assigned	Slovenia
+744	SJ	SJM	officially assigned	Svalbard and Jan Mayen
+703	SK	SVK	formerly used	Sikkim
+694	SL	SLE	officially assigned	Sierra Leone
+674	SM	SMR	officially assigned	San Marino
+686	SN	SEN	officially assigned	Senegal
+706	SO	SOM	officially assigned	Somalia
+	SP		unassigned	
+	SQ		unassigned	
+740	SR	SUR	officially assigned	Suriname
+728	SS	SSD	officially assigned	South Sudan
+678	ST	STP	officially assigned	Sao Tome and Principe
+	SU		exceptionally reserved	USSR
+222	SV	SLV	officially assigned	El Salvador
+	SW		unassigned	
+534	SX	SXM	officially assigned	Sint Maarten (Dutch part)
+760	SY	SYR	officially assigned	Syrian Arab Republic
+748	SZ	SWZ	officially assigned	Swaziland
+	TA		exceptionally reserved	
+	TB		unassigned	
+796	TC	TCA	officially assigned	Turks and Caicos Islands (the)
+148	TD	TCD	officially assigned	Chad
+	TE		unassigned	
+260	TF	ATF	officially assigned	French Southern Territories (the)
+768	TG	TGO	officially assigned	Togo
+764	TH	THA	officially assigned	Thailand
+	TI		unassigned	
+762	TJ	TJK	officially assigned	Tajikistan
+772	TK	TKL	officially assigned	Tokelau
+626	TL	TLS	officially assigned	Timor-Leste
+795	TM	TKM	officially assigned	Turkmenistan
+788	TN	TUN	officially assigned	Tunisia
+776	TO	TON	officially assigned	Tonga
+	TP		transitionally reserved	East Timor
+	TQ		unassigned	
+792	TR	TUR	officially assigned	Turkey
+	TS		unassigned	
+780	TT	TTO	officially assigned	Trinidad and Tobago
+	TU		unassigned	
+798	TV	TUV	officially assigned	Tuvalu
+158	TW	TWN	officially assigned	Taiwan (Province of China)
+	TX		unassigned	
+	TY		unassigned	
+834	TZ	TZA	officially assigned	Tanzania, United Republic of
+804	UA	UKR	officially assigned	Ukraine
+	UB		unassigned	
+	UC		unassigned	
+	UD		unassigned	
+	UE		unassigned	
+	UF		unassigned	
+800	UG	UGA	officially assigned	Uganda
+	UH		unassigned	
+	UI		unassigned	
+	UJ		unassigned	
+	UK		exceptionally reserved	
+	UL		unassigned	
+581	UM	UMI	officially assigned	United States Minor Outlying Islands (the)
+	UN		exceptionally reserved	
+	UO		unassigned	
+	UP		unassigned	
+	UQ		unassigned	
+	UR		unassigned	
+840	US	USA	officially assigned	United States of America (the)
+	UT		unassigned	
+	UU		unassigned	
+	UV		unassigned	
+	UW		unassigned	
+	UX		unassigned	
+858	UY	URY	officially assigned	Uruguay
+860	UZ	UZB	officially assigned	Uzbekistan
+336	VA	VAT	officially assigned	Holy See (the)
+	VB		unassigned	
+670	VC	VCT	officially assigned	Saint Vincent and the Grenadines
+	VD		unassigned	
+862	VE	VEN	officially assigned	Venezuela (Bolivarian Republic of)
+	VF		unassigned	
+092	VG	VGB	officially assigned	Virgin Islands (British)
+	VH		unassigned	
+850	VI	VIR	officially assigned	Virgin Islands (U.S.)
+	VJ		unassigned	
+	VK		unassigned	
+	VL		unassigned	
+	VM		unassigned	
+704	VN	VNM	officially assigned	Viet Nam
+	VO		unassigned	
+	VP		unassigned	
+	VQ		unassigned	
+	VR		unassigned	
+	VS		unassigned	
+	VT		unassigned	
+548	VU	VUT	officially assigned	Vanuatu
+	VV		unassigned	
+	VW		unassigned	
+	VX		unassigned	
+	VY		unassigned	
+	VZ		unassigned	
+	WA		unassigned	
+	WB		unassigned	
+	WC		unassigned	
+	WD		unassigned	
+	WE		unassigned	
+876	WF	WLF	officially assigned	Wallis and Futuna
+	WG		indeterminately reserved	
+	WH		unassigned	
+	WI		unassigned	
+	WJ		unassigned	
+	WK		unassigned	
+	WL		indeterminately reserved	
+	WM		unassigned	
+	WN		unassigned	
+	WO		indeterminately reserved	
+	WP		unassigned	
+	WQ		unassigned	
+	WR		unassigned	
+882	WS	WSM	officially assigned	Samoa
+	WT		unassigned	
+	WU		unassigned	
+	WV		indeterminately reserved	
+	WW		unassigned	
+	WX		unassigned	
+	WY		unassigned	
+	WZ		unassigned	
+	YA		unassigned	
+	YB		unassigned	
+	YC		unassigned	
+	YD		formerly used	Yemen, Democratic
+887	YE	YEM	officially assigned	Yemen
+	YF		unassigned	
+	YG		unassigned	
+	YH		unassigned	
+	YI		unassigned	
+	YJ		unassigned	
+	YK		unassigned	
+	YL		unassigned	
+	YM		unassigned	
+	YN		unassigned	
+	YO		unassigned	
+	YP		unassigned	
+	YQ		unassigned	
+	YR		unassigned	
+	YS		unassigned	
+175	YT	MYT	officially assigned	Mayotte
+	YU		transitionally reserved	Yugoslavia
+	YV		indeterminately reserved	
+	YW		unassigned	
+	YX		unassigned	
+	YY		unassigned	
+	YZ		unassigned	
+710	ZA	ZAF	officially assigned	South Africa
+	ZB		unassigned	
+	ZC		unassigned	
+	ZD		unassigned	
+	ZE		unassigned	
+	ZF		unassigned	
+	ZG		unassigned	
+	ZH		unassigned	
+	ZI		unassigned	
+	ZJ		unassigned	
+	ZK		unassigned	
+	ZL		unassigned	
+894	ZM	ZMB	officially assigned	Zambia
+	ZN		unassigned	
+	ZO		unassigned	
+	ZP		unassigned	
+	ZQ		unassigned	
+	ZR		transitionally reserved	Zaire
+	ZS		unassigned	
+	ZT		unassigned	
+	ZU		unassigned	
+	ZV		unassigned	
+716	ZW	ZWE	officially assigned	Zimbabwe
+	ZX		unassigned	
+	ZY		unassigned	
